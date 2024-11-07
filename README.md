@@ -21,13 +21,13 @@ This study highlights the effectiveness of machine learning in renewable energy 
 
 ## Repository Structure
 
-- **SolarEnergy**:  
+- **\SolarEnergy**:  
   Contains datasets and Jupyter notebooks used for the analysis and model training of solar energy consumption and prices across multiple countries.
 
-- **Datasets**:  
+- **\Datasets**:  
   Contains saved datasets specifically for solar consumption and price prediction.
 
-- **IndianSolar**:  
+- **\IndianSolar**:  
   Contains datasets and Python code related to the analysis of solar consumption and prices within India.
 
 ## Getting Started
