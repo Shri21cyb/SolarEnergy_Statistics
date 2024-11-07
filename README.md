@@ -18,11 +18,17 @@ Energy data by Indian state, including energy generation and price metrics.
 ## Conclusion
 This study highlights the effectiveness of machine learning in renewable energy forecasting, with ensemble models (Random Forest, Gradient Boosting) outperforming traditional models. The integration of synthetic data and cross-validation further enhances the reliability of predictions. These findings can inform energy policy and support a data-driven transition toward sustainable energy use globally.
 
-## Repository Structure
-/SolarEnergy: Contains datasets and jupyter notebooks used for analysis and model training of countries.
-/Datasets: Saved datasets for solar consumption and price prediction.
-/IndianSolar:Conatins datsets and python codes related to analysis of solar consumption and prices within India
 
+## Repository Structure
+
+- **SolarEnergy**:  
+  Contains datasets and Jupyter notebooks used for the analysis and model training of solar energy consumption and prices across multiple countries.
+
+- **Datasets**:  
+  Contains saved datasets specifically for solar consumption and price prediction.
+
+- **IndianSolar**:  
+  Contains datasets and Python code related to the analysis of solar consumption and prices within India.
 
 ## Getting Started
   ### Clone the Repository:
