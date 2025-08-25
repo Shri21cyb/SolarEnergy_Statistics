@@ -1,4 +1,4 @@
-# SolarEnergy_Statistics
+# SolarEnergy Prediction
 Machine Learning Project 
 ## Project Overview
 This project analyzes global solar and hydroelectric energy consumption trends across different countries, with a focus on identifying relationships with GDP and population metrics. Using various machine learning models, the project predicts solar energy consumption and energy prices, aiming to provide insights that support the shift toward renewable energy solutions. This project also integrates synthetic data and applies cross-validation techniques to improve model accuracy.
